@@ -14,7 +14,8 @@ const miangame = {
     technologies: {
         frontEnd: {
             js: ['React.js', 'Next.js', 'JQuery'],
-            css: ['Styled-components', 'Saas', 'SCSS', 'materialize', 'bootstrap', 'Ant.design']
+            css: ['Styled-components', 'Saas', 'SCSS', 
+                  'materialize', 'bootstrap', 'Ant.design']
         },
         backEnd: {
             python: ['Django'],
