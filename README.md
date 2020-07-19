@@ -5,7 +5,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/miguel5gavilan/)](https://twitter.com/miguel5gavilan/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-%C3%A1ngel-gavil%C3%A1n-merino-111438138/)](https://www.linkedin.com/in/miguel-%C3%A1ngel-gavil%C3%A1n-merino-111438138/)
 
-### A little more about me...
+### A little more about me
 ```js
 const miangame = {
     pronouns: 'He' | 'Him',
@@ -67,6 +67,12 @@ const miangame = {
     </tr>
   </tbody>
 </table>
+
+### Hobbies
+<p>I like all sports but especially Taekwondo 🥋
+<br/>
+I have practiced this sport since I was 5 years old and it has given me both physical and mental health.</p>
+<img align="center" src="https://reygif.com/media/taekwondo-15183.gif" width="300">
 
 ### My Stats
 ![Miguel Gavilán Github Stats](https://github-readme-stats.vercel.app/api?username=miangame&show_icons=true&hide_border=true&hide=["issues"])
