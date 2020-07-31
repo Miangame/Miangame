@@ -2,8 +2,17 @@
 
 <img align='right' src="https://user-images.githubusercontent.com/19331093/89010261-85710180-d30e-11ea-828f-c400ec53a40a.png" width="280">
 
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/miguel5gavilan/)](https://twitter.com/miguel5gavilan/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-%C3%A1ngel-gavil%C3%A1n-merino-111438138/)](https://www.linkedin.com/in/miguel-%C3%A1ngel-gavil%C3%A1n-merino-111438138/)
+<p>
+   <a href="https://twitter.com/miguel5gavilan/" target="blank" style='margin-right:4px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="miangame" height="28px" width="28px" />
+  </a>
+  <a href="https://www.linkedin.com/in/miguel-%C3%A1ngel-gavil%C3%A1n-merino-111438138/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="miangame" height="28px" width="28px" />
+  </a>
+  <a href="https://dev.to/miangame" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="miangame" height="28px" width="28px" />
+  </a>
+</p>
 
 ### A little more about me
 ```js
