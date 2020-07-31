@@ -1,4 +1,4 @@
-## Hi, I'm Miguel Ángeeeeel 👨🏽‍💻
+## Hi, I'm Miguel Ángel 👨🏽‍💻
 
 <img align='right' src="https://user-images.githubusercontent.com/19331093/89010261-85710180-d30e-11ea-828f-c400ec53a40a.png" width="280">
 
