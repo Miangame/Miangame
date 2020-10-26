@@ -84,4 +84,4 @@ I have practiced this sport since I was 5 years old and it has given me both phy
 <img align="center" src="https://reygif.com/media/taekwondo-15183.gif" width="300">
 
 ### My Stats
-![Miguel Gavilán Github Stats](https://github-readme-stats.vercel.app/api?username=miangame&show_icons=true&hide_border=true&hide=issues)
+![Miguel Gavilán Github Stats](https://github-readme-stats.vercel.app/api?username=miangame&show_icons=true&hide_border=true&hide=issues&count_private=true)
