@@ -1,46 +1,64 @@
+<style>
+  .social-link:hover {
+    text-decoration: none !important;
+  }
+
+  .social-link {
+    margin-right: 4px;
+  }
+</style>
+
 ## Hi, I'm Miguel Ángel 👨🏽‍💻
 
 <img align='right' src="https://user-images.githubusercontent.com/19331093/89010261-85710180-d30e-11ea-828f-c400ec53a40a.png" width="280">
 
 <p>
-   <a href="https://miguelgm.dev/" target="_blank" style='margin-right:4px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg" alt="miangame" height="28px" width="28px" />
+   <a href="https://miguelgm.dev/" target="_blank" class="social-link">
+    <img align="center" src="./img/url.png" alt="miangame" height="28px" width="28px" />
   </a>
-  <a href="https://www.linkedin.com/in/miguel-%C3%A1ngel-gavil%C3%A1n-merino-111438138/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="miangame" height="28px" width="28px" />
+  <a href="https://www.linkedin.com/in/miguel-%C3%A1ngel-gavil%C3%A1n-merino-111438138/" target="_blank" class="social-link">
+    <img align="center" src="./img/linkedin.png" alt="miangame" height="28px" width="28px" />
   </a>
-  <a href="https://dev.to/miangame" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="miangame" height="28px" width="28px" />
+  <a href="https://dev.to/miangame" target="_blank" class="social-link">
+    <img align="center" src="./img/dev.png" alt="miangame" height="28px" width="28px" />
   </a>
-   <a href="https://twitter.com/miguel5gavilan/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="miangame" height="28px" width="28px" />
+   <a href="https://twitter.com/miguel5gavilan/" target="_blank" class="social-link">
+    <img align="center" src="./img/twitter.png" alt="miangame" height="28px" width="28px" />
   </a>
 </p>
 
 ### A little more about me
+
 ```js
 const miangame = {
-    pronouns: 'He' | 'Him',
-    code: ['Javascript', 'Typescript', 'Python', 'PHP'],
-    architecture: ['Clean-code', 'TDD'],
-    technologies: {
-        frontEnd: {
-            js: ['React.js', 'Next.js', 'JQuery'],
-            css: ['Styled-components', 'Saas', 'SCSS', 
-                  'materialize', 'bootstrap', 'Ant.design']
-        },
-        backEnd: {
-            python: ['Django'],
-            php: ['Symfony']
-        },
-        devOps: ['Heroku', 'Docker🐳', 'Apache'],
-        databases: ['Postgres', 'MySql', 'Oracle'],
-        misc: ['Git', 'CI/CD', 'Github-actions']
-    }
-}
+  pronouns: "He" | "Him",
+  code: ["Javascript", "Typescript", "Python", "PHP"],
+  architecture: ["Clean-code", "TDD"],
+  technologies: {
+    frontEnd: {
+      js: ["React.js", "Next.js", "JQuery"],
+      css: [
+        "Styled-components",
+        "Saas",
+        "SCSS",
+        "materialize",
+        "bootstrap",
+        "Ant.design",
+      ],
+    },
+    backEnd: {
+      python: ["Django"],
+      php: ["Symfony"],
+    },
+    devOps: ["Heroku", "Docker🐳", "Apache"],
+    databases: ["Postgres", "MySql", "Oracle"],
+    misc: ["Git", "CI/CD", "Github-actions"],
+  },
+};
 ```
 
 ### What I currently use
+
 <table>
   <tbody>
     <tr valign="top">
@@ -85,10 +103,12 @@ const miangame = {
 </table>
 
 ### Hobbies
+
 <p>I like all sports but especially Taekwondo 🥋
 <br/>
 I have practiced this sport since I was 5 years old and it has given me both physical and mental health.</p>
 <img align="center" src="https://reygif.com/media/taekwondo-15183.gif" width="300">
 
 ### My Stats
+
 ![Miguel Gavilán Github Stats](https://github-readme-stats.vercel.app/api?username=miangame&show_icons=true&hide_border=true&hide=issues&count_private=true)
