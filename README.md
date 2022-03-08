@@ -1,28 +1,18 @@
-<style>
-  .social-link:hover {
-    text-decoration: none !important;
-  }
-
-  .social-link {
-    margin-right: 4px;
-  }
-</style>
-
 ## Hi, I'm Miguel Ángel 👨🏽‍💻
 
 <img align='right' src="https://user-images.githubusercontent.com/19331093/89010261-85710180-d30e-11ea-828f-c400ec53a40a.png" width="280">
 
 <p>
-   <a href="https://miguelgm.dev/" target="_blank" class="social-link">
+   <a href="https://miguelgm.dev/" target="_blank" style="margin-right: 4px;">
     <img align="center" src="./img/url.png" alt="miangame" height="28px" width="28px" />
   </a>
-  <a href="https://www.linkedin.com/in/miguel-%C3%A1ngel-gavil%C3%A1n-merino-111438138/" target="_blank" class="social-link">
+  <a href="https://www.linkedin.com/in/miguel-%C3%A1ngel-gavil%C3%A1n-merino-111438138/" target="_blank" style="margin-right: 4px;">
     <img align="center" src="./img/linkedin.png" alt="miangame" height="28px" width="28px" />
   </a>
-  <a href="https://dev.to/miangame" target="_blank" class="social-link">
+  <a href="https://dev.to/miangame" target="_blank" style="margin-right: 4px;">
     <img align="center" src="./img/dev.png" alt="miangame" height="28px" width="28px" />
   </a>
-   <a href="https://twitter.com/miguel5gavilan/" target="_blank" class="social-link">
+   <a href="https://twitter.com/miguel5gavilan/" target="_blank" style="margin-right: 4px;">
     <img align="center" src="./img/twitter.png" alt="miangame" height="28px" width="28px" />
   </a>
 </p>
