@@ -26,7 +26,7 @@ const miangame = {
   architecture: ["Clean-code", "TDD"],
   technologies: {
     frontEnd: {
-      js: ["React.js", "Next.js", "JQuery"],
+      js: ["React.js", "Next.js"],
       css: [
         "Styled-components",
         "Saas",
@@ -97,7 +97,7 @@ const miangame = {
 <p>I like all sports but especially Taekwondo 🥋
 <br/>
 I have practiced this sport since I was 5 years old and it has given me both physical and mental health.</p>
-<img align="center" src="https://reygif.com/media/taekwondo-15183.gif" width="300">
+<img align="center" src="https://www.historyoffighting.com/resources/u1SlxXK.gif" width="300">
 
 ### My Stats
 
