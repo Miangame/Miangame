@@ -1,104 +1,67 @@
-## Hi, I'm Miguel Ángel 👨🏽‍💻
+<h2 align="left">Hi 👋! My name is Miguel and I'm a Frontend Engineer, from Córdoba</h2>
 
-<img align='right' src="https://user-images.githubusercontent.com/19331093/89010261-85710180-d30e-11ea-828f-c400ec53a40a.png" width="280">
+###
 
-<p>
-   <a href="https://miguelgm.dev/" target="_blank" style="margin-right: 4px;">
-    <img align="center" src="./img/url.png" alt="miangame" height="28px" width="28px" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=miangame&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miangame&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://user-images.githubusercontent.com/19331093/89010261-85710180-d30e-11ea-828f-c400ec53a40a.png"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/miguel-%C3%A1ngel-gavil%C3%A1n-merino-111438138" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/miguel-%C3%A1ngel-gavil%C3%A1n-merino-111438138/" target="_blank" style="margin-right: 4px;">
-    <img align="center" src="./img/linkedin.png" alt="miangame" height="28px" width="28px" />
+  <a href="https://dev.to/miangame" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
   </a>
-  <a href="https://dev.to/miangame" target="_blank" style="margin-right: 4px;">
-    <img align="center" src="./img/dev.png" alt="miangame" height="28px" width="28px" />
+  <a href="https://twitter.com/miguel5gavilan" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
-   <a href="https://twitter.com/miguel5gavilan/" target="_blank" style="margin-right: 4px;">
-    <img align="center" src="./img/twitter.png" alt="miangame" height="28px" width="28px" />
+  <a href="miangame1@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-</p>
+</div>
 
-### A little more about me
+###
 
-```js
-const miangame = {
-  pronouns: "He" | "Him",
-  code: ["Javascript", "Typescript", "Python", "PHP"],
-  architecture: ["Clean-code", "TDD"],
-  technologies: {
-    frontEnd: {
-      js: ["React.js", "Next.js"],
-      css: [
-        "Styled-components",
-        "Saas",
-        "SCSS",
-        "materialize",
-        "bootstrap",
-        "Ant.design",
-      ],
-    },
-    backEnd: {
-      python: ["Django"],
-      php: ["Symfony"],
-    },
-    devOps: ["Heroku", "Docker🐳", "Apache"],
-    databases: ["Postgres", "MySql", "Oracle"],
-    misc: ["Git", "CI/CD", "Github-actions"],
-  },
-};
-```
+<br clear="both">
 
-### What I currently use
+<img src="https://raw.githubusercontent.com/miangame/miangame/output/snake.svg" alt="Snake animation" />
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-          <span><b>Typescript</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
-      </td>
-      <td width="25%" align="center">
-          <span><b>React.js</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
-      </td>
-      <td width="25%" align="center">
-          <span><b>Next.js</b></span><br><br><br>
-         <img height="64px" src="https://cdn.svgporn.com/logos/nextjs.svg">
-      </td>
-      </tr>
-      <tr valign="top">
-         <td width="25%" align="center">
-           <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
-           <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-         </td>
-         <td width="25%" align="center">
-           <span><b>Django</b></span><br><br><br>
-           <img height="64px" src="https://cdn.svgporn.com/logos/django.svg">
-         </td>
-         <td width="25%" align="center">
-           <span><b>Docker</b></span><br><br><br>
-           <img height="64px" src="https://cdn.svgporn.com/logos/docker.svg">
-         </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
+###
 
-### Hobbies
+<h3 align="left">Hobbies</h3>
 
-<p>I like all sports but especially Taekwondo 🥋
-<br/>
-I have practiced this sport since I was 5 years old and it has given me both physical and mental health.</p>
-<img align="center" src="https://www.historyoffighting.com/resources/u1SlxXK.gif" width="300">
+###
 
-### My Stats
+<p align="left">I like all sports but especially Taekwondo 🥋<br>I have practiced this sport since I was 5 years old and it has given me both physical and mental health.</p>
 
-![Miguel Gavilán Github Stats](https://github-readme-stats.vercel.app/api?username=miangame&show_icons=true&hide_border=true&hide=issues&count_private=true)
+###
+
+<div align="center">
+  <img height="200" src="https://www.historyoffighting.com/resources/u1SlxXK.gif"  />
+</div>
+
+###
